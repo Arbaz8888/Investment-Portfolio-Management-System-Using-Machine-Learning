@@ -9,16 +9,33 @@ The proposed system for the investment portfolio management system using machine
 The system will consist of the following components:
 
 • User Interface: The user interface will be a web-based application that allows users to access their portfolio information and make investment decisions. The interface will be user-friendly and provide real-time updates on the portfolio’s performance.
+
 • Data Collection and Preprocessing: The system will collect data from various sources such as financial websites, APIs, and databases. The collected data will be preprocessed to handle missing values, outliers, and normalization.
+
 • Feature Selection: The system will use feature selection techniques such as correlation analysis and PCA to select relevant features that can be used to predict the future performance of assets.
+
 • Machine Learning Models: The system will use machine learning algorithms such as LSTM, Random Forest, and Gradient Boosting to predict the future performance of assets. The models will be trained and tested using the preprocessed data.
+
 • Portfolio Optimization: Based on the predictions made by the machine learn- ing models, the system will provide recommendations for portfolio optimization. The portfolio can be optimized by buying or selling assets to achieve a desired asset allocation.
+
 • Evaluation Metrics: The system will use evaluation metrics such as Sharpe ratio and maximum drawdown to evaluate the performance of the portfolio.
+
 • Security: The system will ensure that user data is secure and protected. The system will use encryption techniques to protect sensitive data such as user login information and financial data.
 
 # Screenshots
 
-![WhatsApp Image 2023-09-19 at 2 36 05 PM](https://github.com/Arbaz8888/Investment-Portfolio-Management-System-Using-Machine-Learning/assets/91562914/5108b0ad-3592-4ac2-a06b-34d86b9bbfa1)
-![WhatsApp Image 2023-09-19 at 2 36 05 PM (5)](https://github.com/Arbaz8888/Investment-Portfolio-Management-System-Using-Machine-Learning/assets/91562914/656c90db-c706-4b93-a72b-6c15c80ed8eb)
+![image](https://github.com/Arbaz8888/Investment-Portfolio-Management-System-Using-Machine-Learning/assets/91562914/40b69f63-9385-4b69-9f3f-512b99b9edb5)
+![image](https://github.com/Arbaz8888/Investment-Portfolio-Management-System-Using-Machine-Learning/assets/91562914/f0d284fb-773f-4185-8eba-182574631c9d)
+![image](https://github.com/Arbaz8888/Investment-Portfolio-Management-System-Using-Machine-Learning/assets/91562914/9f9f51f2-26ea-4c0f-a451-d46e199ee0b0)
+![image](https://github.com/Arbaz8888/Investment-Portfolio-Management-System-Using-Machine-Learning/assets/91562914/19bd4cd2-39bf-4ea7-ba03-ac1204e72907)
+![image](https://github.com/Arbaz8888/Investment-Portfolio-Management-System-Using-Machine-Learning/assets/91562914/9fc6e772-1260-4faf-9712-303b3f614689)
+![image](https://github.com/Arbaz8888/Investment-Portfolio-Management-System-Using-Machine-Learning/assets/91562914/2b1ae97d-281c-4ddd-b78a-de2fa0e6fc04)
+
+
+
+
+
+
+
 
 
